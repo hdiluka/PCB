@@ -1,0 +1,70 @@
+Added Component: Designator=*(TSSOP24)
+Added Component: Designator=C1(C1206)
+Added Component: Designator=C2(C1206)
+Added Component: Designator=C3(C1206)
+Added Component: Designator=C4(C1206)
+Added Component: Designator=C5(C1206)
+Added Component: Designator=C6(C1206)
+Added Component: Designator=P1(HDR1X7)
+Added Component: Designator=P2(HDR1X3)
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=P4(HDR1X2)
+Added Pin To Net: NetName=+12V Pin=*-1
+Added Pin To Net: NetName=+12V Pin=C1-2
+Added Pin To Net: NetName=+12V Pin=C2-2
+Added Pin To Net: NetName=+12V Pin=P2-1
+Added Net: Name=+12V
+Added Pin To Net: NetName=-12V Pin=*-24
+Added Pin To Net: NetName=-12V Pin=C5-2
+Added Pin To Net: NetName=-12V Pin=C6-2
+Added Pin To Net: NetName=-12V Pin=P2-3
+Added Net: Name=-12V
+Added Pin To Net: NetName=5V Pin=*-12
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=5V Pin=P3-1
+Added Net: Name=5V
+Added Pin To Net: NetName=\C\S\ Pin=*-20
+Added Pin To Net: NetName=\C\S\ Pin=P1-3
+Added Net: Name=\C\S\
+Added Pin To Net: NetName=\R\S\T\ Pin=*-16
+Added Pin To Net: NetName=\R\S\T\ Pin=P1-7
+Added Net: Name=\R\S\T\
+Added Pin To Net: NetName=AGND Pin=*-7
+Added Pin To Net: NetName=AGND Pin=C1-1
+Added Pin To Net: NetName=AGND Pin=C2-1
+Added Pin To Net: NetName=AGND Pin=C5-1
+Added Pin To Net: NetName=AGND Pin=C6-1
+Added Pin To Net: NetName=AGND Pin=P2-2
+Added Pin To Net: NetName=AGND Pin=P4-2
+Added Net: Name=AGND
+Added Pin To Net: NetName=GND Pin=*-13
+Added Pin To Net: NetName=GND Pin=*-14
+Added Pin To Net: NetName=GND Pin=*-23
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LDAC Pin=*-17
+Added Pin To Net: NetName=LDAC Pin=P1-6
+Added Net: Name=LDAC
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=*-3
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Pin To Net: NetName=Net*_8 Pin=*-11
+Added Pin To Net: NetName=Net*_8 Pin=P4-1
+Added Net: Name=Net*_8
+Added Pin To Net: NetName=RSTSEL Pin=*-22
+Added Pin To Net: NetName=RSTSEL Pin=P1-1
+Added Net: Name=RSTSEL
+Added Pin To Net: NetName=SCLK Pin=*-21
+Added Pin To Net: NetName=SCLK Pin=P1-2
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SDI Pin=*-18
+Added Pin To Net: NetName=SDI Pin=P1-5
+Added Net: Name=SDI
+Added Pin To Net: NetName=SDO Pin=*-19
+Added Pin To Net: NetName=SDO Pin=P1-4
+Added Net: Name=SDO
+Added Class: Name=DAC7731
