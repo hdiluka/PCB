@@ -175,7 +175,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=CAMtasticFFF.Cam
+DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -192,7 +192,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=CAMtasticFFF2.Cam
+DocumentPath=CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -233,62 +233,54 @@ DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
 DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.GM16
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for PCB_Project_DAC7731\PCB1.TXT
 DItemRevisionGUID=
 
@@ -557,7 +549,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=FX ApeosPort-IV C3375 PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
